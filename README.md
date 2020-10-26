@@ -30,6 +30,6 @@ The user may also check the workout dashboard which will show their stats and ov
 
 
 
-The URL to the deployed application:
+The URL to the deployed application: https://cryptic-peak-49568.herokuapp.com/
 
 The URL to the GitHub repository: https://github.com/karunasato/Workout_Tracker.git 
