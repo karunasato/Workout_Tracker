@@ -43,16 +43,10 @@ Follow these guidelines for committing:
 
 * Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
 
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
 
-* Test your application before you commit to ensure functionality at every step in the development process.
 
-We want you to have well over 200 commits by graduation, so commit early and often!
 
-## Submission on BCS
 
-You are required to submit the following:
+The URL to the deployed application:
 
-* The URL to the deployed application
-
-* The URL to the GitHub repository
+The URL to the GitHub repository: https://github.com/karunasato/Workout_Tracker.git 
